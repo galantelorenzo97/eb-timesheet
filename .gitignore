@@ -180,3 +180,12 @@ sketch
 *.code-workspace
 
 # End of https://www.toptal.com/developers/gitignore/api/node,react,visualstudiocode
+
+# production
+/build
+
+# testing
+/coverage
+
+/.pnp
+.pnp.js
